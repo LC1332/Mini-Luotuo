@@ -1,31 +1,23 @@
 # 迷你骆驼:一系列蒸馏指令数据得到的中文语言模型
 
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
+[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
+
 <p align="center"> <a href="https://scholar.google.com/citations?user=imroB-8AAAAJ&hl=zh-CN" target="_blank">黄钟健 @ 西安电子科技大学</a>, <a href="https://github.com/LC1332" target="_blank">李鲁鲁 @ 商汤科技</a></p>
 
 
+<details>
+  <summary> 黄钟健 训练了本项目的第一个模型 </summary>
+
+李鲁鲁发起了项目，并提出了后续使用feature进行蒸馏的思路。
+
+黄钟健 训练了本项目的第一个模型，并且实现了训练框架
+
+后续如果更多其他的同学训练小模型，我们也会陆续加入到作者列表中
+
+</details>
 
 
-
-
-
----
-
-<p align="center" width="100%">
-    <a><img src="images/LaMini-LM-solo.png" alt="Title" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
-</p>
-
-# LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
-<p align="center"> <a href="https://twitter.com/WuMinghao_nlp" target="_blank">Minghao Wu</a>, <a href="https://twitter.com/MacAbdul9" target="_blank">Abdul Waheed</a>, <a href="https://chiyuzhang94.github.io/" target="_blank">Chiyu Zhang</a>,  <a href="https://mageed.arts.ubc.ca/" target="_blank">Muhammad Abdul-Mageed</a>, <a href="https://afaji.github.io/" target="_blank">Alham Fikri Aji</a></p>
-<p align="center" float="left">
-  <img src="images/MBZUAI-logo.png" height="40" />
-  <img src="images/ubc_logo.png" height="40" />
-  <img src="images/monash_logo.png" height="40" />
-</p>
-
-
-
-[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
-[![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
 
 LaMini-LM is a collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions. We explore different model architectures, sizes, and checkpoints, and extensively evaluate their performance across various NLP benchmarks and through human evaluation. 
 
