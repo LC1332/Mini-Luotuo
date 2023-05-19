@@ -1,3 +1,11 @@
+# 迷你骆驼:一系列蒸馏指令数据得到的中文语言模型
+
+
+
+
+
+---
+
 <p align="center" width="100%">
     <a><img src="images/LaMini-LM-solo.png" alt="Title" style="width: 20%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
