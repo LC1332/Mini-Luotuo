@@ -70,13 +70,13 @@
 <tbody>
   <tr>
     <td>GPT2(Wenzhong) </td>
-    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 110M(comming soon)</a></td>
+    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 110M(coming soon)</a></td>
     <td><a href="https://huggingface.co/Midkey/GPT2-3.5B-chinese-ft-luotuo" target="_blank" rel="noopener noreferrer">Mini-Luotuo-3.5B</a></td>
     <td></td>
   </tr>
   <tr>
     <td>GPT2(zero_nlp) </td>
-    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 312M(comming soon)</a></td>
+    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 312M(coming soon)</a></td>
   </tr>
    <!-- <tr>
         <td>Flan-T5</td>
