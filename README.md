@@ -3,7 +3,7 @@
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-green.svg)]()
 [![Data License](https://img.shields.io/badge/Data%20License-CC%20By%20NC%204.0-red.svg)]()
 
-<p align="center"> <a href="https://scholar.google.com/citations?user=imroB-8AAAAJ&hl=zh-CN" target="_blank">黄钟健 @ 西安电子科技大学</a>, <a href="https://github.com/LC1332" target="_blank">李鲁鲁 @ 商汤科技</a></p>
+<p align="center"> <a href="https://scholar.google.com/citations?user=imroB-8AAAAJ&hl=zh-CN" target="_blank">黄钟健 @ 西安电子科大</a>, <a href="https://github.com/LC1332" target="_blank">李鲁鲁 @ 商汤科技</a></p>
 
 
 <details>
@@ -16,6 +16,13 @@
 后续如果更多其他的同学训练小模型，我们也会陆续加入到作者列表中
 
 </details>
+
+受到[LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM)项目的启发，迷你骆驼是一组小型高效的语言模型，是从ChatGPT蒸馏而来，并使用1500万条指令的大规模数据集进行训练。我们将应用不同模型架构、大小进行训练。并争取在后续评估他们的效果。目前我们已经释放了3.5B的模型。
+
+骆驼嵌入是[Luotuo(骆驼)](https://github.com/LC1332/Luotuo-Chinese-LLM)的子项目之一, 后者由李鲁鲁, 冷子昂, 陈启源发起。
+
+
+---
 
 
 
