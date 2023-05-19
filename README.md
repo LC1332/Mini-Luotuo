@@ -1,5 +1,9 @@
 # 迷你骆驼:一系列蒸馏指令数据得到的中文语言模型
 
+<p align="center"> <a href="https://scholar.google.com/citations?user=imroB-8AAAAJ&hl=zh-CN" target="_blank">黄钟健 @ 西安电子科技大学</a>, <a href="https://github.com/LC1332" target="_blank">李鲁鲁 @ 商汤科技</a></p>
+
+
+
 
 
 
