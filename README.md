@@ -35,7 +35,7 @@
 
 ## 快速上手
 
-初步的Colab代码： <a href="https://colab.research.google.com/github/Midkey/GPT2-3.5B-chinese-ft/blob/main/GPT2_3_5B_chinese_ft_luotuo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+初步的Colab代码： <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 TODO: 实现一个gradio的代码
 
@@ -85,7 +85,7 @@ TODO: 实现一个gradio的代码
 - [百科问答(baike2018qa)，150万个带问题类型的问答](https://github.com/brightmart/nlp_chinese_corpus)
 - [社区问答json版(webtext2019zh)社区问答json版(webtext2019zh)](https://github.com/brightmart/nlp_chinese_corpus)
 
-
+我们将会研究数据协议，如果这些子项目的协议允许的话，我们会陆续发布完整或者抽样后的训练集。
 
 ## 训练代码
 
@@ -116,5 +116,18 @@ Please cite the repo if you use the data or code in this repo.
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/LC1332/Mini-Luotuo}},
+}
+```
+
+原来项目的repo
+
+```
+@misc{alpaca,
+  author={Ziang Leng, Qiyuan Chen and Cheng Li},
+  title = {Luotuo: An Instruction-following Chinese Language model, LoRA tuning on LLaMA},
+  year = {2023},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/LC1332/Luotuo-Chinese-LLM}},
 }
 ```
