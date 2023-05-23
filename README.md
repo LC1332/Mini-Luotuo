@@ -5,6 +5,10 @@
 
 <p align="center"> <a href="https://scholar.google.com/citations?user=imroB-8AAAAJ&hl=zh-CN" target="_blank">黄钟健 @ 西安电子科大</a>, <a href="https://github.com/LC1332" target="_blank">李鲁鲁 @ 商汤科技</a></p>
 
+<p align="center">
+    <img src="images/ProjectIcon.png" height="300">
+</p>
+
 
 <details>
   <summary> 黄钟健 训练了本项目的第一个模型 </summary>
