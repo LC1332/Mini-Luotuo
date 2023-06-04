@@ -28,18 +28,23 @@
 
 ---
 
-- [快速上手](#快速上手)
-- [模型](#模型)
-- [数据](#数据)
-- [引用](#引用)
-- [赞助](#赞助)
+- [迷你骆驼:一系列蒸馏指令数据得到的中文语言模型](#迷你骆驼一系列蒸馏指令数据得到的中文语言模型)
+  - [快速上手](#快速上手)
+  - [模型](#模型)
+  - [数据](#数据)
+  - [训练代码](#训练代码)
+  - [赞助(Sponsorship) 骆驼项目](#赞助sponsorship-骆驼项目)
+  - [引用](#引用)
 
 ---
 
 
 ## 快速上手
 
-初步的Colab代码： <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+初步的Colab代码： 
+3.5B 模型： <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/3.5B_minimal.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+
+312M 模型： <a href="https://colab.research.google.com/github/LC1332/Mini-Luotuo/blob/main/312M_minimal_BertTokenizer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 
 TODO: 实现一个gradio的代码
 
@@ -57,13 +62,13 @@ TODO: 实现一个gradio的代码
 <tbody>
   <tr>
     <td>GPT2(Wenzhong) </td>
-    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 110M(coming soon)</a></td>
+    <td><a href="https://huggingface.co/Midkey/GPT2-110M-chinese-ft-luotuo" target="_blank" rel="noopener noreferrer"> 110M (v0.1) </a></td>
     <td><a href="https://huggingface.co/Midkey/GPT2-3.5B-chinese-ft-luotuo" target="_blank" rel="noopener noreferrer">Mini-Luotuo-3.5B</a></td>
     <td></td>
   </tr>
   <tr>
     <td>GPT2(zero_nlp) </td>
-    <td><a href="https://github.com/LC1332/Mini-Luotuom" target="_blank" rel="noopener noreferrer"> 312M(coming soon)</a></td>
+    <td><a href="https://huggingface.co/Midkey/GPT2-312M-chinese-ft-BertTokenizer-luotuo" target="_blank" rel="noopener noreferrer"> 312M(v0.1) </a></td>
   </tr>
 </tbody>
 </table>
